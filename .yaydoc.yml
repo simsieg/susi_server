@@ -3,7 +3,8 @@ metadata:
   projectname: "Susi Server"
   version: development
 build:
-  theme: sphinx_fossasia_theme   
+  theme: 
+    name: sphinx_fossasia_theme   
   source: docs
   logo: images/susi-logo-original.svg
   subproject:
